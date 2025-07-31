@@ -1,0 +1,15 @@
+print("atm no")
+name=input("Enter the name:")
+accountno=int(input("Enter the acc no:"))
+bankname=input("Enter the bankname:")
+phoneno=int(input("Enter the phone no:"))
+pinno=int(input("enter the pin no:"))
+balance=int(input("enter the balance"))
+print("name is",name)
+print("accountno is",accountno)
+print("bankname is",bankname)
+print("phoneno is",phoneno)
+print("pinno is",pinno)
+print("balance is",balance)
+
+

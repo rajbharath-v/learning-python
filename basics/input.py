@@ -1,0 +1,6 @@
+a=int(input("Enter the no:"))
+b=float(input("Enter the float"))
+name=input("Enter the name")
+print("no is",a)
+print("float is",b)
+print("name is:",name)
